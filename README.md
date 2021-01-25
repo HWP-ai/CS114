@@ -60,11 +60,11 @@ Computer Science 114
 
 ### 理论与概念
 
-### 知名人物
+* [ACM Turing Award Lectures](https://amturing.acm.org/lectures.cfm)
 
 ### 教育与科研单位
 
-### 社会实体
+### 合法基金会
 
 网站
 ----
