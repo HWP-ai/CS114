@@ -24,7 +24,7 @@ Computer Science 114
 * [Apple iPhone](https://www.apple.com/iphone/)
 * [Playstation 4](https://www.playstation.com/)
 
-#### ii. 数据库、操作系统、运行时或其他管理系统
+#### ii. 数据库、操作系统、运行时或其他管理应用系统
 
 * [Rational Database](https://en.wikipedia.org/wiki/Relational_database)
 * [达梦数据库](http://www.dameng.com/)
