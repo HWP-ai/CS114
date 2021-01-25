@@ -12,7 +12,7 @@ Computer Science 114
 
 ### 第一分编 产品和技术
 
-#### 计算机硬件部件、计算机网络或泛计算力设备
+#### i. 计算机、计算机硬件部件、计算机网络或泛计算力设备
 
 * [intel processors](https://www.intel.com/content/www/us/en/products/processors.html)
 * [amd processors](https://www.amd.com/en/products/processors-desktop)
@@ -21,7 +21,7 @@ Computer Science 114
 * [Wikipedia](https://en.wikipedia.org/wiki/Internet)
 * [Apple iPhone](https://www.apple.com/iphone/)
 
-#### 数据库、操作系统、运行时或其他管理系统
+#### ii. 数据库、操作系统、运行时或其他管理系统
 
 * [Rational Database](https://en.wikipedia.org/wiki/Relational_database)
 * [达梦数据库](http://www.dameng.com/)
@@ -35,7 +35,7 @@ Computer Science 114
 * [SAP](https://www.sap.com/index.html)
 * [金蝶](https://www.kingdee.com/)
 
-#### 程序生成、开发工具或开发环境
+#### iii. 程序生成、开发工具或开发环境
 
 * [GNU binutils](https://www.gnu.org/software/binutils/)
 * [GCC](https://gcc.gnu.org/)
@@ -62,29 +62,29 @@ Computer Science 114
 * [阿里云](https://cn.aliyun.com/)
 * [移动云](https://ecloud.10086.cn/home/)
 
-参与者
-------
+第二编 参与者
+------------
 
-### 理论与概念
+### 第一分编 理论与概念
 
 * [ACM Turing Award Lectures](https://amturing.acm.org/lectures.cfm)
 
-### 教育与科研单位
+### 第二分编 教育与科研单位
 
-#### 发达国家
+#### i. 发达国家
 
 * [Stanford University](https://www.stanford.edu/)
 * [Massachusetts Institute of Technology](https://web.mit.edu/)
 * [The University of Edinburgh](http://www.ed.ac.uk/)
 * [Association for Computing Machinery](https://www.acm.org/)
 
-#### 第三世界国家
+#### ii. 第三世界国家
 
 * [清华大学](https://www.tsinghua.edu.cn/index.htm)
 * [北京大学](https://www.pku.edu.cn/)
 * [中国计算机学会](https://www.ccf.org.cn/)
 
-### 合法民间组织、基金会
+### 第三分编 合法民间组织、基金会
 
 * [Free Software Foundation](https://www.fsf.org/)
 * [Apache Software Foundation](https://apache.org/)
@@ -93,6 +93,6 @@ Computer Science 114
 * [Ecma International](https://www.ecma-international.org/)
 * [开放原子开源基金会](https://www.openatom.org/)
 
-网站
-----
+第三编 网站
+----------
 
