@@ -31,7 +31,6 @@ Computer Science 114
 * [Microsoft Windows](https://www.microsoft.com/en-us/windows)
 * [Linux](http://kernel.org/), [Linux Distribution](http://en.wikipedia.org/wiki/Linux_distribution)
 * [Android](https://www.android.com/)
-* [X11 Window System](http://www.opengroup.org/desktop/x/)
 * [Java Runtime Environment](https://java.com/en/)
 * [Microsoft .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
 * [nodejs](https://nodejs.org/)
@@ -39,6 +38,7 @@ Computer Science 114
 * [金蝶](https://www.kingdee.com/)
 * [AutoCAD](https://www.autodesk.com/)
 * [bleader](http://www.blender.org/)
+* [X11 Window System](http://www.opengroup.org/desktop/x/)
 
 #### iii. 程序生成、开发工具或开发环境
 
