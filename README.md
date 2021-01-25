@@ -7,10 +7,10 @@ Computer Science 114
 
 不承诺公允性和完备性。
 
-实例
-----
+第一编 实例
+-----------
 
-### 产品和技术
+### 第一分编 产品和技术
 
 #### 计算机硬件部件、计算机网络或泛计算力设备
 
@@ -45,7 +45,7 @@ Computer Science 114
 * [Emacs](https://www.gnu.org/software/emacs/)
 * [vim](https://www.vim.org/)
 
-### 标准化
+### 第二分编 标准化
 
 * [IETF RFC](https://www.ietf.org/standards/rfcs/)
 * [W3C Standard](https://www.w3.org/standards/)
@@ -55,7 +55,12 @@ Computer Science 114
 * [ISO/IEC 9899:1990 Programming languages — C](https://www.iso.org/standard/17782.html)
 * [c++ standards](http://www.open-std.org/jtc1/sc22/wg21/docs/standards)
 
-### 服务
+### 第三分编 服务
+
+* [Amazon AWS - Cloud Computing Services](https://aws.amazon.com/)
+* [IBM Cloud Computing](https://www.ibm.com/cloud/learn/cloud-computing)
+* [阿里云](https://cn.aliyun.com/)
+* [移动云](https://ecloud.10086.cn/home/)
 
 参与者
 ------
