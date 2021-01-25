@@ -22,6 +22,7 @@ Computer Science 114
 #### 数据库、操作系统、运行时或其他管理系统
 
 * [Rational Database](https://en.wikipedia.org/wiki/Relational_database)
+* [达梦数据库](http://www.dameng.com/)
 * [Microsoft Windows](https://www.microsoft.com/en-us/windows)
 * [Linux Distribution](http://en.wikipedia.org/wiki/Linux_distribution)
 * [Android](https://www.android.com/)
