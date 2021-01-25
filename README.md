@@ -29,7 +29,7 @@ Computer Science 114
 * [Rational Database](https://en.wikipedia.org/wiki/Relational_database)
 * [达梦数据库](http://www.dameng.com/)
 * [Microsoft Windows](https://www.microsoft.com/en-us/windows)
-* [Linux Distribution](http://en.wikipedia.org/wiki/Linux_distribution)
+* [Linux](http://kernel.org/), [Linux Distribution](http://en.wikipedia.org/wiki/Linux_distribution)
 * [Android](https://www.android.com/)
 * [X11 Window System](http://www.opengroup.org/desktop/x/)
 * [Java Runtime Environment](https://java.com/en/)
