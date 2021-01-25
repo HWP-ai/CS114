@@ -64,7 +64,27 @@ Computer Science 114
 
 ### 教育与科研单位
 
-### 合法基金会
+#### 发达国家
+
+* [Stanford University](https://www.stanford.edu/)
+* [Massachusetts Institute of Technology](https://web.mit.edu/)
+* [The University of Edinburgh](http://www.ed.ac.uk/)
+* [Association for Computing Machinery](https://www.acm.org/)
+
+#### 第三世界国家
+
+* [清华大学](https://www.tsinghua.edu.cn/index.htm)
+* [北京大学](https://www.pku.edu.cn/)
+* [中国计算机学会](https://www.ccf.org.cn/)
+
+### 合法民间组织、基金会
+
+* [Free Software Foundation](https://www.fsf.org/)
+* [Apache Software Foundation](https://apache.org/)
+* [Linux Foundation](https://www.linuxfoundation.org/)
+* [Open Source Initiative](https://opensource.org/)
+* [Ecma International](https://www.ecma-international.org/)
+* [开放原子开源基金会](https://www.openatom.org/)
 
 网站
 ----
