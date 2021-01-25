@@ -37,8 +37,8 @@ Computer Science 114
 * [nodejs](https://nodejs.org/)
 * [SAP](https://www.sap.com/index.html)
 * [金蝶](https://www.kingdee.com/)
-* [AutoCAD](www.autodesk.com)
-* [bleader](www.blender.org)
+* [AutoCAD](https://www.autodesk.com/)
+* [bleader](http://www.blender.org/)
 
 #### iii. 程序生成、开发工具或开发环境
 
