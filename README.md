@@ -26,15 +26,32 @@ Computer Science 114
 * [Microsoft Windows](https://www.microsoft.com/en-us/windows)
 * [Linux Distribution](http://en.wikipedia.org/wiki/Linux_distribution)
 * [Android](https://www.android.com/)
-* [Java Runtime Environment)](https://java.com/en/)
+* [X11 Window System](http://www.opengroup.org/desktop/x/)
+* [Java Runtime Environment](https://java.com/en/)
 * [Microsoft .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
 * [nodejs](https://nodejs.org/)
 * [SAP](https://www.sap.com/index.html)
 * [金蝶](https://www.kingdee.com/)
 
-#### 开发工具或开发环境
+#### 程序生成、开发工具或开发环境
+
+* [GNU binutils](https://www.gnu.org/software/binutils/)
+* [GCC](https://gcc.gnu.org/)
+* [LLVM](https://llvm.org/)
+* [Visual Studio IDE](https://visualstudio.microsoft.com/)
+* [netbeans](https://netbeans.org/)
+* [Emacs](https://www.gnu.org/software/emacs/)
+* [vim](https://www.vim.org/)
 
 ### 标准化
+
+* [IETF RFC](https://www.ietf.org/standards/rfcs/)
+* [W3C Standard](https://www.w3.org/standards/)
+* [linux - FHS](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
+* [posix](http://get.posixcertified.ieee.org/)
+* [x11 protocol](https://www.x.org/releases/X11R7.7/doc/xproto/x11protocol.html)
+* [ISO/IEC 9899:1990 Programming languages — C](https://www.iso.org/standard/17782.html)
+* [c++ standards](http://www.open-std.org/jtc1/sc22/wg21/docs/standards)
 
 ### 服务
 
