@@ -19,7 +19,10 @@ Computer Science 114
 * [loongson龙芯处理器](http://www.loongson.cn/product/cpu/)
 * [Intenet](http://en.wikipedia.org/wiki/Internet)
 * [Wikipedia](https://en.wikipedia.org/wiki/Internet)
+* [Facebook](https://facebook.com/)
+* [Surface Pro 7](https://www.microsoftstore.com.cn/surface-pro-7-configurate)
 * [Apple iPhone](https://www.apple.com/iphone/)
+* [Playstation 4](https://www.playstation.com/)
 
 #### ii. 数据库、操作系统、运行时或其他管理系统
 
