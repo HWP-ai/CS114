@@ -12,7 +12,7 @@ Computer Science 114
 
 ### 第一分编 产品和技术
 
-#### i. 计算机、计算机硬件部件、计算机网络或泛计算力设备
+#### i. 计算机、计算机硬件部件、计算机网络或其他泛算力设备
 
 * [intel processors](https://www.intel.com/content/www/us/en/products/processors.html)
 * [amd processors](https://www.amd.com/en/products/processors-desktop)
