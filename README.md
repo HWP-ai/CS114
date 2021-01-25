@@ -10,7 +10,7 @@ Computer Science 114
 
 ### 产品和技术
 
-#### 计算机硬件部件、计算机网络或泛可计算设备
+#### 计算机硬件部件、计算机网络或泛计算力设备
 
 * [intel processors](https://www.intel.com/content/www/us/en/products/processors.html)
 * [amd processors](https://www.amd.com/en/products/processors-desktop)
